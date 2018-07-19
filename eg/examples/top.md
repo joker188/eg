@@ -22,7 +22,7 @@ accumulate statistics since top was launched
 
 only show process with PID 333 and 444
 
-    top -pid 333
+    top -pid 333,444
 
 
 # Basic Usage
